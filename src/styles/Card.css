@@ -1,0 +1,15 @@
+.card {
+  width: 100%;
+  max-width: 317px;
+  height: 100%;
+  overflow: hidden;
+  border-radius: 8px;
+  margin: auto;
+}
+
+.profile-picture {
+  width: 317px;
+  height: 317px;
+  object-fit: cover;
+  object-position: right;
+}

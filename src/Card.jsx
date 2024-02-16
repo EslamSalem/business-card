@@ -1,6 +1,7 @@
 import profilePicture from './assets/profile-picture.jpg'
 import Info from './Info'
 import Footer from './Footer'
+import './styles/Card.css'
 
 function Card() {
   return (
