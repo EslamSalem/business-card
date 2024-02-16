@@ -1,0 +1,45 @@
+.info {
+  width: 80%;
+  margin: auto;
+}
+
+.contact {
+  text-align: center;
+  margin: 20px 0;
+}
+
+.contact-name {
+  font-size: 25px;
+  font-weight: 700;
+  margin: 6px;
+}
+
+.contact-position {
+  font-size: 12px;
+  font-weight: 400;
+  color: #F3BF99;
+  margin: 6px;
+}
+
+.contact a {
+  display: flex;
+  justify-content: center;
+  gap: 8px;
+}
+
+.about {
+  margin-top: 32px;
+}
+
+.about h3 {
+  font-size: 16px;
+  font-weight: 700;
+  margin: 6px 0;
+}
+
+.about p {
+  font-size: 10px;
+  color: #DCDCDC;
+  margin: 0;
+  margin-bottom: 24px;
+}

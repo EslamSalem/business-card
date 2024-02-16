@@ -7,3 +7,13 @@ body {
 #root {
   height: 100vh;
 }
+
+.btn {
+  background-color: #FFFFFF;
+  color: #374151;
+  font-size: 14px;
+  font-weight: 500;
+  padding: 10px;
+  border-radius: 10px;
+  text-decoration: none;
+}

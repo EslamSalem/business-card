@@ -1,3 +1,6 @@
+import MailIcon from './assets/Mail.png'
+import './styles/Info.css'
+
 function Info() {
   return (
     <div className="info">
@@ -5,6 +8,7 @@ function Info() {
         <h2 className="contact-name">Eslam Salem</h2>
         <p className="contact-position">Frontend Developer</p>
         <a class="btn" href="mailto:eslamsalem2.es@gmail.com" target="_blank">
+          <img src={MailIcon} />
           Email
         </a>
       </div>
