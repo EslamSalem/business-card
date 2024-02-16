@@ -1,6 +1,7 @@
 .info {
   width: 80%;
-  margin: auto;
+  margin: 0 auto;
+  margin-bottom: auto;
 }
 
 .contact {
@@ -25,10 +26,8 @@
   display: flex;
   justify-content: center;
   gap: 8px;
-}
-
-.about {
-  margin-top: 32px;
+  margin-top: 14px;
+  box-shadow: 1px 2px 4px rgba(0, 0, 0, 0.5);
 }
 
 .about h3 {

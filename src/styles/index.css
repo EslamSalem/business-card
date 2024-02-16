@@ -4,10 +4,6 @@ body {
   margin: 0;
 }
 
-#root {
-  height: 100vh;
-}
-
 .btn {
   background-color: #FFFFFF;
   color: #374151;

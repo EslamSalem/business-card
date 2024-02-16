@@ -1,5 +1,5 @@
-import MailIcon from './assets/Mail.png'
-import './styles/Info.css'
+import MailIcon from "./assets/Mail.png";
+import "./styles/Info.css";
 
 function Info() {
   return (
@@ -15,13 +15,15 @@ function Info() {
       <div className="about">
         <h3>About</h3>
         <p>
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Laboriosam
-          earum dolore saepe nobis architecto.
+          Passionate Frontend Developer eager to refine design skills and build
+          intuitive, user-friendly experiences. Strong foundation in HTML, CSS,
+          JavaScript, React & Drupal, honed through coursework & internship at
+          Efficient Vision.
         </p>
         <h3>Interests</h3>
         <p>
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Laboriosam
-          earum dolore saepe nobis architecto.
+          Music, Guitar, Working out, Weight lifting, Video Games, Movies & TV
+          Shows.
         </p>
       </div>
     </div>
